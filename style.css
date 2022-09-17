@@ -1,0 +1,30 @@
+*{
+    font-family: lato;
+    color: white;
+    text-align: left;
+    padding: 15px;
+    font-weight: 400;
+}
+
+table, th, td {
+    border: 2px solid white;
+    border-collapse: collapse;
+    margin: 20px auto;
+}
+
+thead {
+    background: #86006f;
+    font-weight: bolder;
+}
+
+.Bill, .Elon{
+    background: #f37ecf;
+}
+
+.Steve, .Mark {
+    background: #af5593;
+}
+
+td {
+    font-weight: bold;
+}
